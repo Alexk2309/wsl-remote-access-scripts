@@ -1,0 +1,3 @@
+@echo on
+wsl.exe bash -c "/PATH/TO/VNC/SHELL/SCRIPT/ON/WSL"
+start "" "\PATH\TO\VNC\EXECUTABLE" PATH\TO\VNC\CONFIG\FILE
